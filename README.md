@@ -2,4 +2,4 @@
 
 * boostrap :
 -link boostrap
-- fontsawersome
+- fontsawesome
