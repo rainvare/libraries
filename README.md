@@ -1,4 +1,5 @@
 # libraries
 
-- boostrap
-- 
+* boostrap :
+-link boostrap
+- fontsawersome
