@@ -8,3 +8,6 @@
 * JQuery:
 <br>
 -JQuery en script
+<br>
+*Sass:
+-Mixin
