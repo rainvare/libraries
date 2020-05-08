@@ -12,5 +12,6 @@
 <br>
 *Sass:<br>
 -Mixin <br>
--@interacciones o estilos en bucle con for
-
+-@interacciones o estilos en bucle con for <br>
+*React: <br>
+-
