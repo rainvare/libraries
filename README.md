@@ -2,8 +2,8 @@
   <html> 
    <body> 
    <div>
- <h1>libraries</h1><br>
-  <h2>boostrap :<h2>
+ <h1>LIBRARIES</h1><br>
+  <h2>boostrap :</h2>
       <ol>
          <li>link boostrap</li> <br>
            </ol>
@@ -22,10 +22,8 @@
       <h2>React: </h2>
         <ol>
          <li> ReactComponentRender </li>
-           <li> Matriz como props </li>
-          
-          
-          </ol>
+           <li> Matriz como props </li> 
+             </ol>
       
       
 </body>
