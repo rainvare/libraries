@@ -23,6 +23,7 @@
         <ol>
          <li> ReactComponentRender </li>
            <li> Matriz como props </li> 
+             <li> Anular un prop </li>
              </ol>
       
       
