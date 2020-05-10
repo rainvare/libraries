@@ -24,6 +24,10 @@
          <li> ReactComponentRender </li>
            <li> Matriz como props </li> 
              <li> Anular un prop </li>
+              <li> Asignar prop default dentro de un component </li>
+               <li> Inicializar un component con un state</li>
+                 <li> actualizar state con this.setState </li>
+                  <li>vincular this a Class </li>
              </ol>
       
       
