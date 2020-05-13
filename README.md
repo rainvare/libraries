@@ -28,6 +28,7 @@
                <li> Inicializar un component con un state</li>
                  <li> actualizar state con this.setState </li>
                   <li>vincular this a Class </li>
+                   <li>controlar un form </li>
              </ol>
       
       
