@@ -34,6 +34,7 @@
                    <h2>Redux</h2>
                  <ol>
                 <li> Middleware </li>
+              <li>Redux basic structure </li>
               </ol>
       
       
