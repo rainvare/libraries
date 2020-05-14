@@ -29,7 +29,12 @@
                  <li> actualizar state con this.setState </li>
                   <li>vincular this a Class </li>
                    <li>controlar un form </li>
-             </ol>
+                     </ol>
+                    <br>
+                   <h2>Redux</h2>
+                 <ol>
+                <li> Middleware </li>
+              </ol>
       
       
 </body>
