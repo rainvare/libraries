@@ -40,6 +40,7 @@
      <h2>Redux y React</h2>
      <ol>
        <li> Administrar Localmente </li>
+        <li> Provider para conectar a Redux </li>
      </ol>
      
       
