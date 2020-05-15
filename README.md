@@ -25,17 +25,23 @@
            <li> Matriz como props </li> 
              <li> Anular un prop </li>
               <li> Asignar prop default dentro de un component </li>
-               <li> Inicializar un component con un state</li>
-                 <li> actualizar state con this.setState </li>
-                  <li>vincular this a Class </li>
-                   <li>controlar un form </li>
-                     </ol>
-                    <br>
-                   <h2>Redux</h2>
-                 <ol>
-                <li> Middleware </li>
-              <li>Redux basic structure </li>
-              </ol>
+             <li> Inicializar un component con un state</li>
+           <li> actualizar state con this.setState </li>
+          <li>vincular this a Class </li>
+        <li>controlar un form </li>
+     </ol>
+   <br>
+      <h2>Redux</h2>
+        <ol>
+         <li> Middleware </li>
+        <li>Redux basic structure </li>
+      </ol>
+   <br>
+     <h2>Redux y React</h2>
+     <ol>
+       <li> Administrar Localmente </li>
+     </ol>
+     
       
       
 </body>
